@@ -1,0 +1,1 @@
+Olá! Esse projeto é uma prática da ferramenta Git.
